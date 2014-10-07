@@ -1,4 +1,4 @@
-MongodbUsein.net
+mongodbUsein.net
 ============
 
 mongodbを.netで使えるようになるまでのテキスト
