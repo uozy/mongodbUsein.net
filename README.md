@@ -12,4 +12,4 @@ mongodbを.netで使えるようになるまでのテキスト
 
 DB操作
 
-C#から使う
+[C#から使う](https://github.com/uozy/mongodbUsein.net/wiki/C%23%E3%81%8B%E3%82%89%E4%BD%BF%E3%81%86)
